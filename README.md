@@ -8,19 +8,20 @@ Linux、Docker、AWSを中心に学習中です。
 ## 目標
 2026年8月までに、未経験からクラウドエンジニアとして就職することを目指しています。
 
-## 現在学習していること
+## 現在学習中の分野
 - Linux
 - Docker
 - AWS
 
-## この1か月で触れたこと
-- CLIの基本操作
-- sudo / apt / systemctl
-- ufw / dig / ポートの基礎
-- cron / tail -f
-- DockerでのWebサーバー起動
-- ポート競合の調査と解決
+## 今後の予定
+- AWS CLF取得
+- ミニPC導入
+- 自宅サーバー構築
+- GitHubで構築ポートフォリオを整理
 
 ## 学習記録
+## Zenn
+学習記録はZennにまとめています。  
+- [学習の備忘録](https://zenn.dev/tamaharu/scraps/5d02410ce4667e)
 詳細な学習記録はZennにまとめています。
 今後はGitHubにも構築手順やポートフォリオを追加していく予定です。
