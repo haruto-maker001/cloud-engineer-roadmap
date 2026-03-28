@@ -22,6 +22,6 @@ Linux、Docker、AWSを中心に学習中です。
 ## 学習記録
 ## Zenn
 学習記録はZennにまとめています。  
-- [学習の備忘録](https://zenn.dev/tamaharu/scraps/5d02410ce4667e)
+- [Linux基本操作の学習記録](https://zenn.dev/tamaharu/scraps/5d02410ce4667e)
 詳細な学習記録はZennにまとめています。
 今後はGitHubにも構築手順やポートフォリオを追加していく予定です。
