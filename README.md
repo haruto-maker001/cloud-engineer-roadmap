@@ -13,6 +13,12 @@ Linux、Docker、AWSを中心に学習中です。
 - Docker
 - AWS
 
+## 現在の状況
+- AWS SAA 学習時間：約30時間
+- 近いうちに AWS CLF 取得予定
+- Linuxを約1か月継続して学習
+- 今後はミニPCを導入し、自宅サーバー構築に進む予定
+
 ## 今後の予定
 - AWS CLF取得
 - ミニPC導入
